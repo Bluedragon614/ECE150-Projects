@@ -8,4 +8,4 @@ Proj01 - Week 2 project meant to familiarize with basic coding structure.
 Lab03 - Week 3 lab meant to practice data types, conversion and functions.  
 Quiz01 - Week 3 quiz meant to test loop structures and logic.
 
-Proj02 - Week 4 project meant to test functions and algorithm building from a description.
+Proj02 - Week 4 project meant to test functions and algorithm building from a description. Arrays were optional.
