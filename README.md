@@ -1,5 +1,5 @@
-# ECE150-Projects
-Small code snippets written in C++ for the first year course ECE150 @ University of Waterloo
+# C++ Projects
+Small code snippets written in C++
 
 Quick breakdown of each project set:
 
